@@ -1,0 +1,193 @@
+#EXTM3U
+
+
+#EXTINF:-1,AR:Aden
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1976.ts
+#EXTINF:-1,AR:Suhail
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1979.ts
+#EXTINF:-1,AR:Rushd
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1983.ts
+#EXTINF:-1,AR:Belqes
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1753.ts
+#EXTINF:-1,AR:Al_Eiman
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1982.ts
+#EXTINF:-1,AR:Al_Saeeda
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1974.ts
+#EXTINF:-1,AR:Al_Ghad_Al_Mushreq
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1975.ts
+#EXTINF:-1,AR:Yemen
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1302.ts
+#EXTINF:-1,AR:Yemen_Today
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1972.ts
+#EXTINF:-1,AR:Yemen_Sama
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1977.ts
+#EXTINF:-1,AR:Yemen_Shabab
+http://mirasat.info:8000/live/eePuzWGHhX/HAuVlBEPdY/1754.ts
+#EXTINF:-1,Al Jazzera
+http://199.167.151.237:1935/live/sp15_1.stream/gmswf.m3u8?v=1114402167
+
+#EXTINF:-1,MBC Drama
+http://106.247.64.206:9981/stream/channelid/892561732?ticket=9E94BDFF8BDD6FA91C73CEDE626D1B04173FC036&profile=pass
+
+
+#EXTINF:-1,MBC Drama 
+http://5.196.90.62:8080/MBC_Drama_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,MBC 1
+http://195.154.154.33:25461/live/tiger/4u90COKjUP/8013.m3u8?v=1114402167
+
+#EXTINF:-1,YEMEN TV 
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+#EXTINF:-1,Mbc one
+http://144.217.64.126:8080/live/demo/demo/27122.m3u8?v=1114402167
+#EXTINF:-1,Mbc four
+http://144.217.64.126:8080/live/demo/demo/27125.m3u8?v=1114402167
+#EXTINF:-1,Mbc drama00
+http://144.217.64.126:8080/live/demo/demo/27128.m3u8?v=1114402167
+
+#EXTINF:-1,Yemen 2
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1114402167
+#EXTINF:-1,sky news
+http://101.mipsplayer.net:8088/live/retretretretretretr/playlist.m3u8?id=265560&pk=801c45816309297215c3e74f64635cb1f77f1f33d32388770295066a54593773
+#EXTINF:-1,sky newsyy
+http://arabictvs.com/m3u8-sites/mbc1.html?autoplay=1
+
+#EXTINF:-1,sky newssjh
+http://178.33.229.68:8888/video/yaser_wKmKs3/hO7qArdE91xpsO5EZG_6Ew/1511574069/mbc-drama/mbc-drama.m3u8?id=3749&v=784694633
+
+qatar
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_267s.m3u8
+
+#EXTINF:-1, khl
+https://live.alhadath.net/hadath/myStream/playlist.m3u8
+#EXTINF:-1, Yemen Sama
+http://digital.ios.internapcdn.net/digital/live_1/YemenSama/YemenSama.m3u8
+
+#EXTINF:-1, Yemen Samafg
+http://iphone-streaming.ustream.tv/uhls/10270300/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Yemen Spacex
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Yemen Spacexv
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Yemen Shabab
+http://82.212.74.3:8000/live/7525.m3u8
+#EXTINF:-1, Yemen Sanaa
+http://82.212.74.3:8000/live/7510.m3u8?v=1411929425
+#EXTINF:-1, Yemen RushD
+http://82.212.74.3:8000/live/7506.m3u8
+
+#EXTINF:-1,abu dhabi drama
+http://82.212.74.5:8000/live/7726.m3u8
+
+#EXTINF:-1,al saeedahfg
+http://82.212.74.3:8000/live/7510.m3u8?v=1114402167
+
+#EXTINF:-1,al saeedahfgd
+http://85.214.242.49:1935/live/Stream1/gmswf.m3u8?v=1114402167
+#EXTINF:-1,al CBC Drama
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc_drama&t=ar
+#EXTINF:-1,abu dhabi drama2
+http://www.watcharab.com/tv/m3u8/tele_du.m3u8?id=mbc_4&t=ar
+#EXTINF:-1,Abu Dabi Drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:-1,Abu Dabi
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+#EXTINF:-1,Abu Dabi Emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+
+#EXTINF:-1,Mbc 3
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/947.ts
+#EXTINF:-1,Al-Sharqiah
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Al-Sharqiah News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,qatar tv
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_262s.m3u8
+#EXTINF:-1,Suhail tv
+http%3A%2F%2F38.99.146.94%3A7777%2FYemen_LR.m3u8
+
+#EXTINF:-1,Sanaa tv
+http://82.212.74.3:8000/live/7510.m3u8
+
+
+
+#EXTINF:-1,Sanaa tv
+http://85.214.242.49:1935/live/Stream1/gmswf.m3u8?v=1114402167
+
+
+
+#EXTINF:-1,MBC drama
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
+
+
+#EXTINF:-1,MBC Masr
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+#EXTINF:-1,MBC 3
+http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
+
+#EXTINF:-1,Abu Dhabi 2
+http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8
+
+
+#EXTINF:-1,Dubai Zaman
+https://cdn.livetvhd.net/static/nsMBCDRAMA/playlist.m3u8
+
+#EXTINF:-1,Dubai Zaman
+http://82.212.74.3:8000/live/7510.m3u8
+#EXTINF:-1,sharjah tv
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1,MBC 2
+rtmp://63.237.48.23/live//MBC2
+#EXTINF:-1,MBC 3
+http://50.7.69.138:9080/hls/mbc3.m3u8
+#EXTINF:-1,MBC 4
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+#EXTINF:-1,MBC 44
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_4&t=ar
+#EXTINF:-1,MBC 444
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+#EXTINF:-1,MBC Drama
+http://50.7.69.138:9080/hls/mbc-drama.m3u8
+#EXTINF:-1,MBC Dramadf
+rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbc4?cle=070114105032077097114032048052032048057032050056 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc4&width=600&height=400
+
+
+
+#EXTINF:-1,AR=Suhail-TV
+http://iphone-streaming.ustream.tv/uhls/10270300/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,AR=Suhail-TVr
+http://iphone-streaming.ustream.tv/uhls/22521454/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, KSA Sunnah
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live.m3u8
+
+#EXTINF:-1, KSA Quaran
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live.m3u8
+
+#EXTINF:-1, KSA Culture
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live.m3u8
+#EXTINF:-1, KSA 2
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live.m3u8
+
+
+#EXTINF:-1,alsaeedah
+
+iphone-streaming.ustream.tv/ustreamVideo/10270300/streams/live/playlist.m3u8
+
+
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="mp4a.40.2,avc1.66.30",RESOLUTION=640x360,BANDWIDTH=704512
+http://36b00a72-lp-beta.ums.ustream.tv/playlist/channel/10270300/2/playlist.m3u8?token=1423279826_1468765697827&cdn=uhs_akamai&geo=US&sgn=1b7522c1f171d823fc30bd5f0072a63696269810
+
+#EXTINF:-1,alsaeedah
+http://iphone-streaming.ustream.tv/uhls/10270300/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1,Rushd TV
+http://streaming.i-sat.tv:1935/live/rushd/playlist.m3u8
+
+
+#EXTINF:-1,Rushd TV
+http://iphone-streaming.ustream.tv/uhls/18648651/streams/live/iphone/playlist.m3u8
